@@ -20,7 +20,7 @@ To run the algorithms, simply execute their corresponding main script:
 
 You will see prompts with instructions that let you choose the RL algorithm to use.
 
-Feel free to play around with the hyper-parameters.
+Feel free to play around with the hyper-parameters anywhere in the scripts.
 
 **Tips:** **Turning off the animation** boosts the speed of execution. You can switch on the animation by modifying the main scripts (you may see the agents do stupid things for a long time if the learning hasn't convergenged).
 
@@ -46,4 +46,6 @@ Here are some of the learning curves of the running algorithms:
 
 
 <img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/Acrobot-DQN.png" width="400"> <img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/MountainCar-REINFORCE.png" width="400">
+
+A detailed report for this project can also be found [here](https://github.com/DianCh/Deep_Reinforcement_Learning/blob/master/results/report.pdf).
 
