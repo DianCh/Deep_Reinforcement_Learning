@@ -39,12 +39,13 @@ For you to run the tests, python 3 with normal scientific packages (numpy, matpl
 2. OpenAI gym (0.10.4 guaranteed to work)
 [Instructions for installation](https://gym.openai.com/docs/)
 
-![alt text](https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/moutaincar.png "MountainCar in gym")
+<img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/moutaincar.png" width="250">
 
 ## Sample Results
 Here are some of the learning curves of the running algorithms:
-![alt text](https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/MountainCar-DQN.png "MountainCar DQN")
+<img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/MountainCar-DQN.png" width="250">
 
-![alt text](https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/Acrobot-DQN.png "Acrobot DQN")
+<img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/Acrobot-DQN.png" width="250">
 
-![alt text](https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/MountainCar-REINFORCE.png "MountainCar REINFORCE")
+<img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/MountainCar-REINFORCE.png" width="250">
+
