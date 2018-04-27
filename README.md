@@ -45,6 +45,5 @@ For you to run the tests, python 3 with normal scientific packages (numpy, matpl
 Here are some of the learning curves of the running algorithms:
 
 
-<img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/Acrobot-DQN.png" width="400">
-<img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/MountainCar-REINFORCE.png" width="400">
+<img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/Acrobot-DQN.png" width="400"> <img src="https://github.com/DianCh/Deep_Reinforcement_Learing/blob/master/results/MountainCar-REINFORCE.png" width="400">
 
